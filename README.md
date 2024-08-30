@@ -1,2 +1,25 @@
-# start-r-project
-A repository for starting R projects
+# start-project
+for starting new R projects
+
+
+# Directory Structure
+
+```
+└── data
+│   └── interim 
+│   ├── processed
+│   └── raw
+├── start-project.Rproj     (the R project file)
+├── docs
+├── .gitignore              (a version-control gitignore file)
+├── README.md               (a read me file)
+├── refs
+└── reports
+│   ├── figs
+│   └── images
+└── src
+│   ├── data
+│   ├── figs
+│   ├── functions
+│   └── utils
+```
