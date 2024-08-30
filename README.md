@@ -9,7 +9,7 @@ for starting new R projects
 │   └── interim 
 │   ├── processed
 │   └── raw
-├── start-project.Rproj     (the R project file)
+├── <project-name>.Rproj    (the R project file)
 ├── docs
 ├── .gitignore              (a version-control gitignore file)
 ├── README.md               (a read me file)
