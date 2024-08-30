@@ -1,4 +1,4 @@
-# start-project
+# start-r-project
 for starting new R projects
 
 
